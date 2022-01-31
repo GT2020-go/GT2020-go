@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Gaëtan 🤓🇫🇷
+# I'm Gaëtan
 
 ## Do you need a developer on your team? 
 
@@ -16,14 +16,14 @@ I learn all the time: from foreign languages to technology, including cryptocurr
 
 See Ya!
 
-Gaëtan
+Gaëtan 🤓
 
 ------------------------------------------------
 
 
 🔭 I’m currently working on my portfolio 🌱 and learning Wordpress
 
-## 🔑 Technologies I'm working with:
+#### 🔑 Technologies I'm working with:
 React, ReactJS
 Javascript, Vanilla JS
 Cloud, AWS S3 & RDS
@@ -34,10 +34,10 @@ SEO, Google SEO
 Bootstrap
 MVP
 
-Tools :
+####Tools:
 Slack, Github, Postman, SAP, Microsoft Office
 
-I'm freelancing on Malt: https://www.malt.fr/profile/gaetanthereau
+####I'm freelancing on Malt: https://www.malt.fr/profile/gaetanthereau
 
 Some of my works displayed here: https://www.behance.net/gatanthrau
 
