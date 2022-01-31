@@ -23,7 +23,14 @@ Gaëtan 🤓
 
 🔭 I’m currently working on my portfolio 🌱 and learning Wordpress
 
-#### 🔑 Technologies I'm working with:
+---
+
+#### 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 React, ReactJS
 Javascript, Vanilla JS
 Cloud, AWS S3 & RDS
@@ -34,10 +41,10 @@ SEO, Google SEO
 Bootstrap
 MVP
 
-####Tools:
+#### Tools:
 Slack, Github, Postman, SAP, Microsoft Office
 
-####I'm freelancing on Malt: https://www.malt.fr/profile/gaetanthereau
+#### I'm freelancing on Malt: https://www.malt.fr/profile/gaetanthereau
 
 Some of my works displayed here: https://www.behance.net/gatanthrau
 
