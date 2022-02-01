@@ -27,24 +27,14 @@ Gaëtan 🤓
 
 #### 🧰 Toolbox
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript Logo" height="80"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" alt="React Logo" height="80"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1920px-Redux_Logo.png" alt="Redux Logo" height="80"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" height="80"/>
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 Logo" height="80"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" alt="NodeJS Logo" height="80"/>
 
 
 ---
-
-React, ReactJS
-Javascript, Vanilla JS
+HTML <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" height="80"/> & CSS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/langfr-800px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 Logo" height="80"/>
+React, ReactJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" alt="React Logo" height="80"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" height="80"/>
+Redux <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1920px-Redux_Logo.png" alt="Redux Logo" height="80"/>
+Javascript, Vanilla JS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript Logo" height="80"/>
+NodeJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1920px-Node.js_logo.svg.png" alt="NodeJS Logo" height="80"/>
 Cloud, AWS S3 & RDS
 SQL, MySQL
 NoSQL, MongoDB
