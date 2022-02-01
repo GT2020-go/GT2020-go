@@ -31,7 +31,7 @@ Gaëtan 🤓
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-1024px-React-icon.svg.png" alt="React Logo" height="80"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1920px-Redux_Logo.png" alt="Redux Logo" style="object-fit:cover; object-position:left; width:84px; height:80px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Redux_Logo.png/1920px-Redux_Logo.png" alt="Redux Logo" height="80"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" height="80"/>
 
